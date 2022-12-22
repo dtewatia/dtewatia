@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @dtewatia
+- 👋 Hi, I’m @dtewatia, currently research scholar at IIT Roorkee, India
 - 👀 I’m interested in structural dynamics, retrofitting of RC buildings
 - 💞️ I’m looking to collaborate on vulnerability and retrofitting of RC structures, design of RC structures
 - 📫 How to reach me - dtewatia@eq.iitr.ac.in
